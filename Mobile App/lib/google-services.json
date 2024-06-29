@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "502446536368",
+    "project_id": "crime-scout",
+    "storage_bucket": "crime-scout.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502446536368:android:35c0d33f3b78da970a6d75",
+        "android_client_info": {
+          "package_name": "com.example.crime_scout"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNt90gWlrxpfPFMnSKb51rsPo-Jk7BVug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
